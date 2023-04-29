@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feskyy&label=Profile%20views&color=0e75b6&style=flat" alt="feskyy" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feskyy" alt="feskyy" /></a> </p>
+
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [feskyy.pages.dev](feskyy.pages.dev)
@@ -12,6 +14,8 @@
 - 📫 How to reach me **feskyykontakt@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+<img data-target="animated-image.replacedImage" alt="coding" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="display: block; opacity: 1;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Feskyy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Feskyy" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feskyy&show_icons=true&locale=en&layout=compact" alt="feskyy" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feskyy&show_icons=true&locale=en" alt="feskyy" /></p>
