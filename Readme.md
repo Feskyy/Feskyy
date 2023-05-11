@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [feskyy.pages.dev](feskyy.pages.dev)
+- 👨‍💻 All of my projects are available at [feskyy.xyz](feskyy.pages.dev)
 
 - 💬 Ask me about **JavaScript, Python, C++, HTML & CSS**
 
